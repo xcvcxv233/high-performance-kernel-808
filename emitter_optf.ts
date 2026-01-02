@@ -1,0 +1,1 @@
+const service_optf = <T>(args: T): T => { return args; };
